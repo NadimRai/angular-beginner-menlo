@@ -19,3 +19,4 @@ export class JumbotronComponent {
        this.jbtBtnUrl="/about";   
    }
 }
+
